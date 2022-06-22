@@ -1,0 +1,2 @@
+#!/git/bash
+mv [[:upper]]* /tmp/u
